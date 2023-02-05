@@ -3,4 +3,4 @@
 
 ## git second push
 
-## git. another push after opening the foder again
+## git. another push after opening the folder again
